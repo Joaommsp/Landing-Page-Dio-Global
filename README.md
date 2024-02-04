@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# Landing Page Dio Global
+### Projeto que desenvolvi para a prática de React-Router-Dom e Styled-components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![T](./src/assets/images/MacBook%20Pro-1707020278530.jpeg)
 
-## Available Scripts
+## React Router 
+O react-router-dom é um pacote que fornece binding para o React Router em aplicações web. Ele permite gerenciar a navegação e o roteamento em um aplicativo React. Com ele, você pode definir diferentes rotas para diferentes partes do seu aplicativo, e o React Router cuidará de renderizar o componente correto com base na URL atual
+Sendo assim , a aplicação não atualizará ao mudar de endereço (url) proporcionando uma melhor Experiência de Usuário (UX)
 
-In the project directory, you can run:
+### Todos os Links desse projeto estão em Router 
 
-### `npm start`
+![T](./src/assets/images/MacBook%20Pro-1707020300139.jpeg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Styled-Components
+Styled Components é uma biblioteca para React e React Native que permite escrever CSS real para estilizar seus componentes. Utiliza literalmente modelos de template marcados (uma recente adição ao JavaScript) e o poder do CSS, permitindo que você escreva código CSS real para estilizar seus componentes. Além disso, remove o mapeamento entre componentes e estilos, tornando o uso de componentes como uma construção de estilização de baixo nível mais fácil do que nunca
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![T](./src/assets/images/MacBook%20Pro-1707020307412.jpeg)
