@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Landing-Page-Dio-Global/static/css/main.3014ec41.css",
+    "main.js": "/Landing-Page-Dio-Global/static/js/main.7be07634.js",
+    "static/media/banner.png": "/Landing-Page-Dio-Global/static/media/banner.85d9d49ecce73d95ac8b.png",
+    "static/media/logo-dio.svg": "/Landing-Page-Dio-Global/static/media/logo-dio.c309228baabe6d5561ce83297335470d.svg",
+    "index.html": "/Landing-Page-Dio-Global/index.html",
+    "main.3014ec41.css.map": "/Landing-Page-Dio-Global/static/css/main.3014ec41.css.map",
+    "main.7be07634.js.map": "/Landing-Page-Dio-Global/static/js/main.7be07634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3014ec41.css",
+    "static/js/main.7be07634.js"
+  ]
+}
